@@ -1,6 +1,6 @@
 # S-P-500-vs-M2-Money-Stock-Python-Excel-
 
-There is much discussion about how frothy the US stock market owing to the AI capital spending boom.
+There is much discussion about froth in the US stock market owing to the AI capital spending boom.
 
 The environment feels a lot like the dot-com stock bubble of 1999-2000, which ended in a bust.
 
