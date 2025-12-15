@@ -4,7 +4,7 @@ There is much discussion about froth in the US stock market owing to the AI capi
 
 The environment feels a lot like the dot-com stock bubble of 1999-2000, which ended in a bust.
 
-Based on the historical ratio of stocks to M2 money supply, stocks are indeed looking expensive.
+Based on the historical ratio of stock prices to the M2 money supply, stocks are indeed looking expensive.
 
 Market data sourced from the yfinance Python library.
 
